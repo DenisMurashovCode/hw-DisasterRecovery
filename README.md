@@ -1,1 +1,8 @@
-# hw-DisasterRecovery
+# Домашнее задание к занятию «Disaster recovery и Keepalived» - Мурашов Денис
+
+## Задание 1
+
+Настроил отслеживание интерфейса Gi0/0 для группы 1 на обоих маршрутизаторах.
+
+![Настройка Router1](img/img1.png)
+![Настройка Router2](img/img2.png)
