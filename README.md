@@ -12,4 +12,5 @@
 Файлы: check_webserver.sh, keepalived.conf
 
 ![1](img/img3.png)
+
 ![2](img/img4.png)
